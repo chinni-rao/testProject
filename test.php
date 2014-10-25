@@ -1,3 +1,3 @@
 <?
-	print "tets Git";
+	print "test Git";
 ?>
