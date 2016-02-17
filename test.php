@@ -1,5 +1,5 @@
 <?
-	print "tets Git";
+	print "tets Gitaa";
 	print "edited in gt";
 	print "test push";
 //	commented for testing multiple projects 
